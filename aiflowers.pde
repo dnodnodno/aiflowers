@@ -1,5 +1,6 @@
-//kinect controlled aiflowers by Toby Dai - tobydai.com
-//needs an OSC input device such as an iphone with touch OSC
+//kinect controlled aiflowers by Toby Dai - tobydai.com | I used a iphone 3gs with touchOSC as an external control unit. It's optional.
+//require SimpleOpenNi: https://code.google.com/p/simple-openni/
+//oscP5 optional
 
 import SimpleOpenNI.*;
 SimpleOpenNI  context;
